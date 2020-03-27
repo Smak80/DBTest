@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">DBTest</string>
+    <string name="btnAdd">Add Value</string>
+    <string name="btnShow">Show All Values</string>
+    <string name="result">%d %s %s</string>
+</resources>
